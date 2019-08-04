@@ -10,7 +10,7 @@ for one or more states. Pass -d to see listing of site types.
 Arguments:
   -h, --help    Show this help message and exit
   -type TYPE    Station type ID to query, see -d
-  -state STATE  State to query, can be full name or abreviation
+  -state STATE  State to query, can be full name or abbreviation
   -allStates    Display data for all states
   -d            Display mapping of site type ID to type name and exit
 </pre>
